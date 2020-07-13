@@ -1,8 +1,8 @@
 # wallscraper
 
-requires more tweaking
+***requires more tweaking
 
-This quickly made app cuts your wallpaper browsing and selection process down to less than a minute.
+*This quickly made app cuts your wallpaper browsing and selection process down to less than a minute.
 
 
 # Program Instructions:
