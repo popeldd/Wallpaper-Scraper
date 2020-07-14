@@ -1,14 +1,14 @@
-# wallscraper
+# Wallpaper Scraper
 
-*** requires more tweaking ***
+*** always needs more tweaking :P ***
+Note: July 14th, 2020 - Fixed Resolutions and Support for multiple images
 
-This quickly made app cuts your wallpaper browsing and selection process down to less than a minute.
+This quickly made, all-in-one, terminal app, deastically cuts your wallpaper browsing/selection process down to less than a 30 seconds.
 
-
-# Program Instructions:
-1. Predefined url
-2. Parse website for images (preferably hi-res)
-3. Create a temporary directory to save the images
-4. Save the images
-5. Set windows wallpaper to a random downloaded image
+# Current Program Instructions:
+1. Parse website for images (unsplash.com)
+2. Create a temporary directory to save images
+3. Find all images from the correct server (*I need to find a better way to find all img srcs with values starting with x)
+3. Download all images at their original resolution
+5. Set os specific wallpaper to a randomly selected downloaded image
 6. Remove the temporary directory and all of its contents
